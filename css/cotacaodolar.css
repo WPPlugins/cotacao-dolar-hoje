@@ -1,0 +1,9 @@
+/*!
+ * @package Cotação Euro Hoje
+ * @author Fernando Becker <febeckers@gmail.com>
+ */
+ #cotacaoeuro{}
+	#cotacaoeuro h2{}
+	#cotacaoeuro strong{ text-align:center; font-size:25px; padding:15px 0; display:block; }
+	#cotacaoeuro div{ text-align:center; font-size:11px; }
+		#cotacaoeuro div a{}
